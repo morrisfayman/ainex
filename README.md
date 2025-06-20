@@ -33,7 +33,10 @@ AINEX Assistant — это интеллектуальный чат-бот в Tel
 
 ## Как это выглядит
 
-![Диалог со стороны клиента][screenshot-dialog]  
+![Диалог со стороны клиента](https://github.com/morrisfayman/ainex/blob/main/AINEX%20Telegram%20Screen%2001.jpg?raw=true) 
+
+![Диалог со стороны клиента](https://github.com/morrisfayman/ainex/blob/main/AINEX%20Telegram%20Screen%2001.jpg?raw=true) 
+
 *Пример разговора: уточняем задачу → предлагаем исследование рынка → спрашиваем о дате для встречи.*
 
 ![Запись в календарь][screenshot-calendar]  
