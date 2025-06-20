@@ -39,10 +39,14 @@ AINEX Assistant — это интеллектуальный чат-бот в Tel
 
 ![Диалог со стороны клиента](https://github.com/morrisfayman/ainex/blob/main/AINEX%20Telegram%20Screen%2002.jpg?raw=true) 
 
+![Диалог со стороны клиента](https://github.com/morrisfayman/ainex/blob/main/AINEX%20Telegram%20Screen%2003.jpg?raw=true) 
 
+![Диалог со стороны клиента](https://github.com/morrisfayman/ainex/blob/main/AINEX%20Telegram%20Screen%2004.jpg?raw=true) 
 
-![Запись в календарь][screenshot-calendar]  
 *Выбор даты и времени, автоматическая отправка приглашения в Google Calendar.*
+
+![Запись в Google календарь](https://github.com/morrisfayman/ainex/blob/main/Google%20calendar%20screenshot%2001.jpg?raw=true)  
+
 
 ## Технологии
 
@@ -50,8 +54,5 @@ AINEX Assistant — это интеллектуальный чат-бот в Tel
 - Платформа: **Telegram Bot API**  
 - Интеграции: **Savvy.ai** (обработка голосовых сообщений и TTS/STT), **Google Calendar API**
 
-## Быстрый старт
 
-1. Клонируйте репозиторий:  
-   ```bash
-   git clone https://github.com/[ваш-пользователь]/[название-репо].git
+
