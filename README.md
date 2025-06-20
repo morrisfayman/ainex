@@ -4,7 +4,7 @@
 
 ---
 
-![AINEX Logo][logo]
+![AINEX Consulting](https://github.com/morrisfayman/ainex/blob/main/AINEX%20Consulting%20logo.jpg?raw=true)
 
 ## О проекте
 
